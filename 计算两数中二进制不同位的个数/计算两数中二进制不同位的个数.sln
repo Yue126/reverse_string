@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "计算两数中二进制不同位的个数", "计算两数中二进制不同位的个数\计算两数中二进制不同位的个数.vcxproj", "{758785B7-BCD0-4510-B44D-C838DF8F5742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{758785B7-BCD0-4510-B44D-C838DF8F5742}.Debug|Win32.ActiveCfg = Debug|Win32
+		{758785B7-BCD0-4510-B44D-C838DF8F5742}.Debug|Win32.Build.0 = Debug|Win32
+		{758785B7-BCD0-4510-B44D-C838DF8F5742}.Release|Win32.ActiveCfg = Release|Win32
+		{758785B7-BCD0-4510-B44D-C838DF8F5742}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
