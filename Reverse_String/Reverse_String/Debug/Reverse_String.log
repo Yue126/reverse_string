@@ -1,0 +1,23 @@
+﻿生成启动时间为 2021/3/3 下午 08:27:47。
+     1>项目“D:\git中的项目\reverse_string\Reverse_String\Reverse_String\Reverse_String.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\git中的项目\reverse_string\Reverse_String\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\Reverse_String.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\vc++2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>d:\git中的项目\reverse_string\reverse_string\reverse_string\test.c(22): warning C4013: “printf”未定义；假设外部返回 int
+       Link:
+         d:\vc++2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\git中的项目\reverse_string\Reverse_String\Debug\Reverse_String.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Reverse_String.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\git中的项目\reverse_string\Reverse_String\Debug\Reverse_String.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\git中的项目\reverse_string\Reverse_String\Debug\Reverse_String.lib" /MACHINE:X86 Debug\test.obj
+         Reverse_String.vcxproj -> D:\git中的项目\reverse_string\Reverse_String\Debug\Reverse_String.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\git中的项目\reverse_string\Reverse_String\Debug\Reverse_String.exe;#1" /manifest Debug\Reverse_String.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Reverse_String.unsuccessfulbuild”。
+         正在对“Debug\Reverse_String.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\git中的项目\reverse_string\Reverse_String\Reverse_String\Reverse_String.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.89
